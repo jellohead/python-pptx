@@ -1,0 +1,4 @@
+Look at /Users/patescalona/Projects/Coding/SPSS-Python/spss-snippets/reports/AE_Contact_Center/AE_Contact_Center.ipynb for scripts that help use python-pptx.
+
+Here's a Chat-GPT link that shows the prompts I used to step through the python notebook:
+https://chat.openai.com/share/9772a118-e079-492c-bfe2-74147f862e90
